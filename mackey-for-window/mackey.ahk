@@ -20,3 +20,6 @@
 ^Space::Send, #{Space}
 F11::SendInput, #m
 !#Esc::SendInput, ^+Esc
+
+WheelUp::WheelDown
+WheelDown::WheelUp
